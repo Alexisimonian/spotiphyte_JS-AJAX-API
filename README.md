@@ -1,9 +1,10 @@
 # spotiPhyte
 Welcome to spotiPhyte: our final project at Makers Academy!! <br>
-We were challenged to make an app in two weeks in team of five. The 
+We were challenged to make an app in two weeks in team of five. The app and the language used could be anything. 
+We thus imagined spotiPhyte and built it from A to Z in the given time.
 
 ## What is spotiPhyte
-This is an <strong>entertaining and therapeutic game</strong> which allows you to play your own choice of music from your spotify account. Whilst the music is playing, watch a beautiful, green plant dance to the beat of your song. To get to the optimal growth of the plant, play a few songs and watch it transform to the rhythm of the beat. 
+SpotiPhyte is an <strong>entertaining and therapeutic game</strong> which allows you to play your own choice of music from your spotify account. Whilst the music is playing, watch a beautiful, green plant dance to the beat of your song. To get to the optimal growth of the plant, play a few songs and watch it transform to the rhythm of the beat. 
 <br><br>
 Why not acquire useful items to speedup the growth of your plant by visiting the shop? To accumulate gems, harvest your plant when you see it growing. To gain more points, let your plant bloom before harvesting.	🌻
 
