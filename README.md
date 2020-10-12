@@ -1,6 +1,6 @@
 # spotiPhyte
 Welcome to spotiPhyte: our final project at Makers Academy!! <br>
-We were challenged to make an app in two weeks in team of five. The app and the language used could be anything. 
+We were challenged to make an app in two weeks in team of five. The app and languages used could be anything. 
 We thus imagined spotiPhyte and built it from A to Z in the given time.
 
 ## What is spotiPhyte
