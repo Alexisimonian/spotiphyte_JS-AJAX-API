@@ -1,9 +1,6 @@
 # spotiPhyte
-Welcome to spotiPhyte. Enjoy the app [here](https://spotiphyte.herokuapp.com/)!
-
-<br>
-<img align="center" margin-left="50px" alt="logo" width="182px" height="152" src="https://i.gyazo.com/218e9afacdd68d657640f4e9cdb4d401.png=50x50">
-<br>
+Welcome to spotiPhyte: our final project at Makers Academy!! <br>
+We were challenged to make an app in two weeks in team of five. The 
 
 ## What is spotiPhyte
 This is an <strong>entertaining and therapeutic game</strong> which allows you to play your own choice of music from your spotify account. Whilst the music is playing, watch a beautiful, green plant dance to the beat of your song. To get to the optimal growth of the plant, play a few songs and watch it transform to the rhythm of the beat. 
@@ -13,7 +10,8 @@ Why not acquire useful items to speedup the growth of your plant by visiting the
 
 ## How it works
 The app fist require users to login with their Spotify Premium account. They can then play a song in Spotify (on any device) and select "spotiPhyte" as player. Their song will then be played in the browser and the plant will start to grow in rythm with the bpm. If the song pauses, so the plant. If the song changes, the plan will dynamically adapt its dance rythm. <br>
-When the plant is fully grown, players can harvest it to earn gems. Gems can be used in the shop to buy items to help growing the plant or change its dance style.<br>
+When the plant is fully grown, players can harvest it to earn gems. Gems can be used in the shop to buy items to help growing the plant or change its dance style.<br><br>
+To work, the app connects to Spotify API and get a variety of information from the songs users are currently playing like: the title, the artist, the lenght, the BPM... The app then uses these information to play the song and grow the plant. <br>
 
 [Check out the game](https://drive.google.com/file/d/1hT5LIN7-z8IEAKjaXbtwqmnDPzZvPeQX/view?usp=sharing)
 
